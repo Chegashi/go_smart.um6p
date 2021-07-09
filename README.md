@@ -1,0 +1,1 @@
+# go_smart.um6p
